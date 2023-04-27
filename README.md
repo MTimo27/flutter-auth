@@ -1,16 +1,6 @@
-# test_v3
+# flutter-auth
 
-A new Flutter project.
+A flutter + firebase auth system where you can log in / register with your email and password or with your google account. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
+<img src="https://user-images.githubusercontent.com/52246177/234989304-a9e09aaf-0a6d-46ab-945d-da903b749db5.png" width="270" height="600">&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/52246177/234989296-3fc99dba-6b3e-4795-aeb4-60bf5390220d.png" width="270" height="600">
